@@ -39,7 +39,8 @@ body {
 }
 
 .social-link img {
-  width: 20px;
+  width: 1.25rem;
+  height: 1.25rem;
 }
 
 #about {
@@ -48,6 +49,16 @@ body {
   padding-inline: 100px;
   padding-block: 100px;
   position: relative;
+}
+.picture.left img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  max-height: 60vh;
+  aspect-ratio: 1460 / 1456;
+  object-fit: cover;
+  object-position: center;
+  display: block;
 }
 
 .picture.left::before {
@@ -70,6 +81,7 @@ body {
 .picture img {
   width: 100%;
 }
+
 #about-me {
   flex: 2;
 }
@@ -89,9 +101,21 @@ body {
   font-size: 14px;
 }
 
-#gallery {
-  /*	min-height: 100vh; */
+/* Supprimer le focus par défaut du bouton */
+.carousel-control-prev,
+.carousel-control-next {
+  outline: none !important;
+  box-shadow: none !important;
 }
+
+/* Alternative avec une bordure plus subtile */
+.carousel-control-prev:focus .carousel-control-prev-icon,
+.carousel-control-next:focus .carousel-control-next-icon {
+  box-shadow: 0 0 0 3px rgb(2, 2, 2);
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
 .title {
   text-align: center;
   padding-block: 2em;
