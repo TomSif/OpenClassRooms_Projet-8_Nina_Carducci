@@ -1,6 +1,6 @@
 # Projet d'Optimisation SEO et Accessibilité - Nina Carducci
 
-<img src="https://github.com/TomSif/OpenClassRooms_Projet-8_Nina_Carducci/assets/images/screenshot-for-readme.png" alt="Bannière Nina Carducci" width="600" />
+<img src="https://raw.githubusercontent.com/TomSif/OpenClassRooms_Projet-8_Nina_Carducci/assets/images/screenshot-for-readme.png" alt="Bannière Nina Carducci" width="600" />
 
 ## Objectifs Pédagogiques
 
