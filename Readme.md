@@ -1,5 +1,7 @@
 # Projet d'Optimisation SEO et Accessibilité - Nina Carducci
 
+<img src="https://github.com/TomSif/OpenClassRooms_Projet-8_Nina_Carducci/assets/images/screenshot-for-readme.png" alt="Bannière Nina Carducci" width="600" />
+
 ## Objectifs Pédagogiques
 
 Ce projet vise à améliorer le référencement naturel (SEO) et l'accessibilité du site web de Nina Carducci, une photographe professionnelle basée à Bordeaux. Les objectifs pédagogiques incluent :
