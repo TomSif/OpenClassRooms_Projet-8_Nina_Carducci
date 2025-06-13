@@ -90,21 +90,3 @@ Ce projet vise à améliorer le référencement naturel (SEO) et l'accessibilit�
 2. **Présentation des Résultats** : Fournir un rapport clair avec les problèmes identifiés et les solutions proposées.
 3. **Feedback et Validation** : Intégrer les retours du client avant finalisation.
 4. **Livraison** : Remise du site optimisé avec documentation des modifications.
-
-### Modèle d'Email Client
-
-```plaintext
-Objet : Optimisation SEO et Accessibilité - Site Nina Carducci
-
-Bonjour Nina,
-
-Voici un résumé des améliorations apportées à votre site :
-1. Optimisation des métadonnées pour un meilleur référencement.
-2. Amélioration de l'accessibilité (navigation au clavier, contrastes).
-3. Réduction du temps de chargement des pages.
-
-Vous pouvez consulter les résultats détaillés ici [lien vers le rapport].
-
-Cordialement,
-[Votre Nom]
-```
